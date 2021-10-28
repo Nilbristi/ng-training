@@ -1,5 +1,5 @@
 {
- developers:[
+ "developers":[
     { 
       "id": 968,
       "firstname": "Khushnuma",
@@ -29,6 +29,6 @@
       "role":  "Associate"
     }
   ],
- skills: ["Angular", "C++", "Java", "Node.js", "python"],
- roles: ["Associate", "Manager", "Developer", "Designer", "Tester"]
+ "skills": ["Angular", "C++", "Java", "Node.js", "python"],
+ "roles": ["Associate", "Manager", "Developer", "Designer", "Tester"]
 }
